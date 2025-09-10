@@ -1,22 +1,28 @@
-__________.__                 __   .__  .__          __   
-\______   \  | _____    ____ |  | _|  | |__| _______/  |_ 
- |    |  _/  | \__  \ _/ ___\|  |/ /  | |  |/  ___/\   __\
- |    |   \  |__/ __ \\  \___|    <|  |_|  |\___ \  |  |  
- |______  /____(____  /\___  >__|_ \____/__/____  > |__|  
-        \/          \/     \/     \/            \/        
-________                        .__        
-\______ \   ____   _____ _____  |__| ____  
- |    |  \ /  _ \ /     \\__  \ |  |/    \ 
- |    `   (  <_> )  Y Y  \/ __ \|  |   |  \
-/_______  /\____/|__|_|  (____  /__|___|  /
-        \/             \/     \/        \/ 
-
-___________.__           .__.__                     .___
-\__    ___/|  |__ _____  |__|  | _____    ____    __| _/
-  |    |   |  |  \\__  \ |  |  | \__  \  /    \  / __ | 
-  |    |   |   Y  \/ __ \|  |  |__/ __ \|   |  \/ /_/ | 
-  |____|   |___|  (____  /__|____(____  /___|  /\____ | 
-                \/     \/             \/     \/      \/ 
+                                                                                                                                            
+                                                                                                                                            
+BBBBBBBBBBBBBBBBB   lllllll                                      kkkkkkkk           lllllll   iiii                            tttt          
+B::::::::::::::::B  l:::::l                                      k::::::k           l:::::l  i::::i                        ttt:::t          
+B::::::BBBBBB:::::B l:::::l                                      k::::::k           l:::::l   iiii                         t:::::t          
+BB:::::B     B:::::Bl:::::l                                      k::::::k           l:::::l                                t:::::t          
+  B::::B     B:::::B l::::l   aaaaaaaaaaaaa      cccccccccccccccc k:::::k    kkkkkkk l::::l iiiiiii     ssssssssss   ttttttt:::::ttttttt    
+  B::::B     B:::::B l::::l   a::::::::::::a   cc:::::::::::::::c k:::::k   k:::::k  l::::l i:::::i   ss::::::::::s  t:::::::::::::::::t    
+  B::::BBBBBB:::::B  l::::l   aaaaaaaaa:::::a c:::::::::::::::::c k:::::k  k:::::k   l::::l  i::::i ss:::::::::::::s t:::::::::::::::::t    
+  B:::::::::::::BB   l::::l            a::::ac:::::::cccccc:::::c k:::::k k:::::k    l::::l  i::::i s::::::ssss:::::stttttt:::::::tttttt    
+  B::::BBBBBB:::::B  l::::l     aaaaaaa:::::ac::::::c     ccccccc k::::::k:::::k     l::::l  i::::i  s:::::s  ssssss       t:::::t          
+  B::::B     B:::::B l::::l   aa::::::::::::ac:::::c              k:::::::::::k      l::::l  i::::i    s::::::s            t:::::t          
+  B::::B     B:::::B l::::l  a::::aaaa::::::ac:::::c              k:::::::::::k      l::::l  i::::i       s::::::s         t:::::t          
+  B::::B     B:::::B l::::l a::::a    a:::::ac::::::c     ccccccc k::::::k:::::k     l::::l  i::::i ssssss   s:::::s       t:::::t    tttttt
+BB:::::BBBBBB::::::Bl::::::la::::a    a:::::ac:::::::cccccc:::::ck::::::k k:::::k   l::::::li::::::is:::::ssss::::::s      t::::::tttt:::::t
+B:::::::::::::::::B l::::::la:::::aaaa::::::a c:::::::::::::::::ck::::::k  k:::::k  l::::::li::::::is::::::::::::::s       tt::::::::::::::t
+B::::::::::::::::B  l::::::l a::::::::::aa:::a cc:::::::::::::::ck::::::k   k:::::k l::::::li::::::i s:::::::::::ss          tt:::::::::::tt
+BBBBBBBBBBBBBBBBB   llllllll  aaaaaaaaaa  aaaa   cccccccccccccccckkkkkkkk    kkkkkkklllllllliiiiiiii  sssssssssss              ttttttttttt  
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
+                                                                                                                                            
 
 Special THANK for Referrence Blacklist from:
 https://github.com/olbat/
